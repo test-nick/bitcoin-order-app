@@ -19,7 +19,7 @@ before_script:
   
 script:
   - ng build --prod --base-href 
-https://test-nick.github.io/bitcoin-order-app
+https://test-nick.github.io/bitcoin-order-app/
   
 deploy:
   provider: pages
